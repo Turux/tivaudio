@@ -1,0 +1,125 @@
+Dependencies for Project 'pcm5122', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5714C65C)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -IC:\TI\TivaWare_C_Series-2.1.2.111 -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\CMSIS\Include -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\Device\ARM\ARMCM4\Include -IC:\Keil_v5\ARM\Pack\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Users\Lorenzo\Workspace\uVision\pcm5122\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-D__UVISION_VERSION="517" -D_RTE_ -DTM4C123GH6PM -DTARGET_IS_BLIZZARD_RA1 -DPART_TM4C123GH6PM -DARM_MATH_CM4 -D__FPU_PRESENT-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (pinout.h)(0x56D9977B)
+I (pcm5122.h)(0x5714C512)
+I (i2c.h)(0x5714B465)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB9C00)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DB9BF6)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_memmap.h)(0x570CD497)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_types.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_ints.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\i2c.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\gpio.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\pin_map.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\rom.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\sysctl.h)(0x56C326B9)
+I (i2s.h)(0x5714BC00)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\udma.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\ssi.h)(0x56C326B9)
+I (word.h)(0x5714C31C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x55DB9BFE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\arm_math.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626278C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562613D0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB9BF8)
+I (output.h)(0x5714C378)
+F (.\i2c.c)(0x5714BA47)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -IC:\TI\TivaWare_C_Series-2.1.2.111 -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\CMSIS\Include -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\Device\ARM\ARMCM4\Include -IC:\Keil_v5\ARM\Pack\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Users\Lorenzo\Workspace\uVision\pcm5122\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-D__UVISION_VERSION="517" -D_RTE_ -DTM4C123GH6PM -DTARGET_IS_BLIZZARD_RA1 -DPART_TM4C123GH6PM -DARM_MATH_CM4 -D__FPU_PRESENT-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (i2c.h)(0x5714B465)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB9C00)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DB9BF6)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_memmap.h)(0x570CD497)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_types.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_ints.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\i2c.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\gpio.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\pin_map.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\rom.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\sysctl.h)(0x56C326B9)
+F (.\i2s.c)(0x5714C0FB)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -IC:\TI\TivaWare_C_Series-2.1.2.111 -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\CMSIS\Include -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\Device\ARM\ARMCM4\Include -IC:\Keil_v5\ARM\Pack\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Users\Lorenzo\Workspace\uVision\pcm5122\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-D__UVISION_VERSION="517" -D_RTE_ -DTM4C123GH6PM -DTARGET_IS_BLIZZARD_RA1 -DPART_TM4C123GH6PM -DARM_MATH_CM4 -D__FPU_PRESENT-o .\objects\i2s.o --omf_browse .\objects\i2s.crf --depend .\objects\i2s.d)
+I (i2s.h)(0x5714BC00)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB9C00)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DB9BF6)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_memmap.h)(0x570CD497)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_types.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_ints.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\udma.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\gpio.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\pin_map.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\rom.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\ssi.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\sysctl.h)(0x56C326B9)
+I (word.h)(0x5714C31C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x55DB9BFE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\arm_math.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626278C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562613D0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB9BF8)
+F (.\pcm5122.c)(0x5714C5BC)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -IC:\TI\TivaWare_C_Series-2.1.2.111 -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\CMSIS\Include -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\Device\ARM\ARMCM4\Include -IC:\Keil_v5\ARM\Pack\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Users\Lorenzo\Workspace\uVision\pcm5122\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-D__UVISION_VERSION="517" -D_RTE_ -DTM4C123GH6PM -DTARGET_IS_BLIZZARD_RA1 -DPART_TM4C123GH6PM -DARM_MATH_CM4 -D__FPU_PRESENT-o .\objects\pcm5122.o --omf_browse .\objects\pcm5122.crf --depend .\objects\pcm5122.d)
+I (pcm5122.h)(0x5714C512)
+I (i2c.h)(0x5714B465)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB9C00)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DB9BF6)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_memmap.h)(0x570CD497)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_types.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_ints.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\i2c.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\gpio.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\pin_map.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\rom.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\sysctl.h)(0x56C326B9)
+I (i2s.h)(0x5714BC00)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\udma.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\ssi.h)(0x56C326B9)
+I (word.h)(0x5714C31C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x55DB9BFE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\arm_math.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626278C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562613D0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB9BF8)
+F (.\pinout.c)(0x570D12C3)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -IC:\TI\TivaWare_C_Series-2.1.2.111 -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\CMSIS\Include -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\Device\ARM\ARMCM4\Include -IC:\Keil_v5\ARM\Pack\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Users\Lorenzo\Workspace\uVision\pcm5122\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-D__UVISION_VERSION="517" -D_RTE_ -DTM4C123GH6PM -DTARGET_IS_BLIZZARD_RA1 -DPART_TM4C123GH6PM -DARM_MATH_CM4 -D__FPU_PRESENT-o .\objects\pinout.o --omf_browse .\objects\pinout.crf --depend .\objects\pinout.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DB9BF6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB9C00)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_gpio.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_memmap.h)(0x570CD497)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\inc\hw_types.h)(0x56C3270B)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\gpio.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\pin_map.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\rom.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\rom_map.h)(0x56C326B9)
+I (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\sysctl.h)(0x56C326B9)
+I (pinout.h)(0x56D9977B)
+F (.\output.c)(0x5714C3F2)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -IC:\TI\TivaWare_C_Series-2.1.2.111 -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\CMSIS\Include -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\Device\ARM\ARMCM4\Include -IC:\Keil_v5\ARM\Pack\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Users\Lorenzo\Workspace\uVision\pcm5122\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-D__UVISION_VERSION="517" -D_RTE_ -DTM4C123GH6PM -DTARGET_IS_BLIZZARD_RA1 -DPART_TM4C123GH6PM -DARM_MATH_CM4 -D__FPU_PRESENT-o .\objects\output.o --omf_browse .\objects\output.crf --depend .\objects\output.d)
+I (output.h)(0x5714C378)
+I (word.h)(0x5714C31C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB9C00)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DB9BF6)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x55DB9BFE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\arm_math.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626278C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562613D0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB9BF8)
+F (C:\TI\TivaWare_C_Series-2.1.2.111\driverlib\rvmdk\driverlib.lib)(0x56C326BA)()
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Lib\ARM\arm_cortexM4lf_math.lib)(0x5628AFF0)()
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B6F216)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\Lorenzo\Workspace\uVision\pcm5122\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 517" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x5253BA34)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -IC:\TI\TivaWare_C_Series-2.1.2.111 -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\CMSIS\Include -IC:\Keil_v5\ARM\Pack\ARM\CMSIS\4.3.0\Device\ARM\ARMCM4\Include -IC:\Keil_v5\ARM\Pack\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Users\Lorenzo\Workspace\uVision\pcm5122\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-D__UVISION_VERSION="517" -D_RTE_ -DTM4C123GH6PM -DTARGET_IS_BLIZZARD_RA1 -DPART_TM4C123GH6PM -DARM_MATH_CM4 -D__FPU_PRESENT-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB9C00)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\TM4C123.h)(0x530F0F16)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x530F0F16)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626278C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562613D0)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6F216)

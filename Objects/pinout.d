@@ -1,0 +1,12 @@
+.\objects\pinout.o: pinout.c
+.\objects\pinout.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\pinout.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pinout.o: C:\TI\TivaWare_C_Series-2.1.2.111\inc/hw_gpio.h
+.\objects\pinout.o: C:\TI\TivaWare_C_Series-2.1.2.111\inc/hw_memmap.h
+.\objects\pinout.o: C:\TI\TivaWare_C_Series-2.1.2.111\inc/hw_types.h
+.\objects\pinout.o: C:\TI\TivaWare_C_Series-2.1.2.111\driverlib/gpio.h
+.\objects\pinout.o: C:\TI\TivaWare_C_Series-2.1.2.111\driverlib/pin_map.h
+.\objects\pinout.o: C:\TI\TivaWare_C_Series-2.1.2.111\driverlib/rom.h
+.\objects\pinout.o: C:\TI\TivaWare_C_Series-2.1.2.111\driverlib/rom_map.h
+.\objects\pinout.o: C:\TI\TivaWare_C_Series-2.1.2.111\driverlib/sysctl.h
+.\objects\pinout.o: pinout.h
